@@ -10,7 +10,7 @@ _By understanding what the user needs and trying your best to see it from their 
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work? 
 
-_I approach it from a solution point of view not from a problem point of view. What is the solution we need to have a happy user? I will incorporate the Scrum agile methodology.
+_I approach it from a solution point of view not from a problem point of view. What is the solution we need to have a happy user? I will incorporate the Scrum agile methodology._
 
 What does it mean to be a good team member in software development?
 
