@@ -6,11 +6,11 @@
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-_By understanding what the user needs and trying your best to see it from their point of view we are able to produce a user-friendly product and experience. User stories help us guide us there._
+_By understanding what the user needs and trying your best to see it from their point of view, we can produce a user-friendly product and experience. User stories help us guide us there._
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work? 
 
-_I approach it from a solution point of view not from a problem point of view. What is the solution we need to have a happy user? I will incorporate the Scrum agile methodology._
+_I approach it from a solution point of view, not from a problem point of view. What is the solution we need to have a happy user? I will incorporate the Scrum agile methodology._
 
 What does it mean to be a good team member in software development?
 
